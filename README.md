@@ -3,7 +3,7 @@
 플랫폼  : PC </br>
 환경   : Cocos2d-x </br>
 언어   : C++ </br>
-개발 기간&nbsp;&nbsp;: 2015.00 ~ 2015.00 (1개월) </br>
+개발 기간&nbsp;&nbsp;: 2016.00 ~ 2016.00 (1개월) </br>
  </br>
 ![downrun](https://github.com/mi-tto/DownRun/assets/165986410/a5a6616c-0147-4abf-9506-a8d6a6341b57)
 https://youtu.be/aik_mpdqQII
